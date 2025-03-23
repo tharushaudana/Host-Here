@@ -1,3 +1,3 @@
 @echo off
-python "D:\Python Projects\Host Here\main.py" %*
+python "%~dp0run.py" %*
 pause
